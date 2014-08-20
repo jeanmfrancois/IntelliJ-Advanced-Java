@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections.iml" filepath="$PROJECT_DIR$/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UseHashSet/UseHashSet.iml" filepath="$PROJECT_DIR$/UseHashSet/UseHashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UseLinkedList/UseLinkedList.iml" filepath="$PROJECT_DIR$/UseLinkedList/UseLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UseTreeSet/UseTreeSet.iml" filepath="$PROJECT_DIR$/UseTreeSet/UseTreeSet.iml" />
+    </modules>
+  </component>
+</project>
+
