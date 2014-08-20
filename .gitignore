@@ -26,3 +26,6 @@ RemoteSystemsTempFiles/*
 # Keep Exercise Files
 
 # Exercise Files/*
+
+#Ignore workspace files for IntelliJ
+*workspace.xml
